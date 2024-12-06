@@ -1,3 +1,5 @@
 /virtual_env/*
 ./virtual_env
-/trained_model_files/*
+/trained_model_files/best_model.pth
+/trained_model_files/final_trained_model.pth
+/trained_model_files/scaler.pkl
