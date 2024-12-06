@@ -1,0 +1,3 @@
+/virtual_env/*
+./virtual_env
+/trained_model_files/*
