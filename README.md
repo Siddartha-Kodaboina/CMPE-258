@@ -1,4 +1,4 @@
-# CMPE258 Final Project: Connect 4
+# CMPE258 Final Project: Personal Workout Analyzer
 Gym Workout Analyzer , an AI driven smart application which provides real-time, personalized feedback on workout form based on video input from a smartphone camera, enhancing safety and performance without the need for a personal trainer.
 
 ## Quick Start: Google Colab Evaluation Notebook 
